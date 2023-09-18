@@ -14,18 +14,21 @@
     border: none;
     margin: 5px 0 0 5px;
     cursor: pointer;
+    background-color: #FFFFFF;
 }
 .cart__btn-plus{
     float: left;
     border: none;
     margin: 5px 0 0 5px;
     cursor: pointer;
+    background-color: #FFFFFF;
 }
 .cart__btn-minus{
     float: left;
     border: none;
     margin: 5px 0 0 5px;
     cursor: pointer;
+    background-color: #FFFFFF;
 }
 .cart__count-wrapper{
     display: flex;
