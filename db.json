@@ -1,0 +1,166 @@
+{
+    "1" : {
+        "category" : "Стенка",
+        "name" : "Barfits",
+        "price" : 9900,
+        "img" : "images/wallbars1.png"
+    },
+    "2" : {
+        "category" : "Стенка",
+        "name" : "Romana",
+        "price" : 5700,
+        "img" : "images/wallbars2.png"
+    },
+    "3" : {
+        "category" : "Стенка",
+        "discount" : true,
+        "name" : "DFC Lite",
+        "oldPrice": 18500,
+        "price" : 16000,
+        "img" : "images/wallbars3.png"
+    },
+    "4" : {
+        "category" : "Стенка",
+        "name" : "Air Gym",
+        "price" : 15000,
+        "img" : "images/wallbars4.png"
+    },
+    "5" : {
+        "category" : "Стенка",
+        "discount" : true,
+        "name" : "SV Sport",
+        "oldPrice" : 14900,
+        "price" : 14000,
+        "img" : "images/wallbars5.png"
+    },
+    "6" : {
+        "category" : "Стенка",
+        "name" : "New Age X3",
+        "price" : 11000,
+        "img" : "images/wallbars6.png"
+    },
+    "7" : {
+        "category" : "Дорожка",
+        "discount" : true,
+        "name" : "Orlauf Shrike",
+        "oldPrice" : 27230,
+        "price" : 21640,
+        "img" : "images/treadmill1.png"
+    },
+    "8" : {
+        "category" : "Дорожка",
+        "name" : "Proxima Rossi",
+        "price" : 68600,
+        "img" : "images/treadmill2.png"
+    },
+    "9" : {
+        "category" : "Дорожка",
+        "discount" : true,
+        "name" : "Bradex",
+        "oldPrice" : 33442,
+        "price" : 32230,
+        "img" : "images/treadmill3.png"
+    },
+    "10" : {
+        "category" : "Дорожка",
+        "name" : "Sundays Fitness",
+        "price" : 87360,
+        "img" : "images/treadmill4.png"
+    },
+    "11" : {
+        "category" : "Дорожка",
+        "discount" : true,
+        "name" : "Riho Barca",
+        "oldPrice" : 499999,
+        "price" : 482460,
+        "img" : "images/treadmill5.png"
+    },
+    "12" : {
+        "category" : "Дорожка",
+        "name" : "Atlas Sport Zirael",
+        "price" : 75750,
+        "img" : "images/treadmill6.png"
+    },
+    "13" : {
+        "category" : "Стол",
+        "discount" : true,
+        "name" : "Donic Tornado",
+        "oldPrice" : 9999,
+        "price" : 8640,
+        "img" : "images/tennis1.png"
+    },
+    "14" : {
+        "category" : "Стол",
+        "name" : "Koenigsman Tt",
+        "price" : 43820,
+        "img" : "images/tennis2.png"
+    },
+    "15" : {
+        "category" : "Стол",
+        "discount" : true,
+        "name" : "Starline Olympic",
+        "oldPrice" : 68230,
+        "price" : 67600,
+        "img" : "images/tennis3.png"
+    },
+    "16" : {
+        "category" : "Стол",
+        "name" : "DFC Dandelion",
+        "price" : 25450,
+        "img" : "images/tennis4.png"
+    },
+    "17" : {
+        "category" : "Стол",
+        "discount" : true,
+        "name" : "Weekend Rasson",
+        "oldPrice" : 44999,
+        "price" : 41530,
+        "img" : "images/tennis5.png"
+    },
+    "18" : {
+        "category" : "Стол",
+        "discount" : true,
+        "name" : "Cornilleau",
+        "oldPrice" : 16499,
+        "price" : 15816,
+        "img" : "images/tennis6.png"
+    },
+    "19" : {
+        "category" : "Батут",
+        "name" : "Kengo",
+        "price" : 25300,
+        "img" : "images/tranpoline1.png"
+    },
+    "20" : {
+        "category" : "Батут",
+        "name" : "Jump Basket",
+        "price" : 11217,
+        "img" : "images/tranpoline2.png"
+    },
+    "21" : {
+        "category" : "Батут",
+        "discount" : true,
+        "name" : "Torneo Alfa",
+        "oldPrice" : 7903,
+        "price" : 5570,
+        "img" : "images/tranpoline3.png"
+    },
+    "22" : {
+        "category" : "Батут",
+        "name" : "Yarton 12ft",
+        "price" : 31066,
+        "img" : "images/tranpoline4.png"
+    },
+    "23" : {
+        "category" : "Батут",
+        "name" : "Stichtrade",
+        "price" : 23036,
+        "img" : "images/tranpoline5.png"
+    },
+    "24" : {
+        "category" : "Батут",
+        "name" : "Happy Jump",
+        "price" : 34690,
+        "img" : "images/tranpoline6.png"
+    }
+}
