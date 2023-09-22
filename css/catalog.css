@@ -8,7 +8,7 @@
 .goods__wrapper h1{
     margin: 0 50px 0 50px;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 30px;
     border: 2px solid black;
 }
 .goods__single-product{
@@ -16,7 +16,7 @@
     height: 400px;
     margin: 40px;
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 20px;
     text-align: center;
     background-color: #FFFFFF;
 }
