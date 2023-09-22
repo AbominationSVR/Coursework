@@ -22,8 +22,12 @@
     height: 100%;
     background-color: #202020;
     display: block;
-    border: 1px solid black;
+    border-left: 1px solid #FFFFFF;
 }
+.header__nav__link:last-child{
+    border-right: 1px solid #FFFFFF;
+}
+
 .header__nav__link a{
     text-align: center;
     display: flex;
@@ -40,10 +44,10 @@
     height: 100%;
 }
 .header__nav__link:hover{
-    background-color: #6e787a;
+    background-color: #EE7828;
     transition: all ease-in-out .5s;
 }
 .header__nav__link:not(:hover){
-    background-color: #4F5759;
+    background-color: #202020;
     transition: all ease-in-out .5s;
 }

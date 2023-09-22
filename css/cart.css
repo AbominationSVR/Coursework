@@ -44,26 +44,26 @@
     float: right;
 }
 .cart__order-container{
-    border: 1px solid #202020;
+    border: 2px solid #202020;
     border-radius: 5px;
-    background-color: #B8BEBF;
+    background-color: #FFFFFF;
     text-align: center;
 }
 .cart__order-btn{
     width: 200px;
     height: 100px;
     margin: 50px auto;
-    border: 1px solid #202020;
+    border: 2px solid #202020;
     border-radius: 5px;
-    background-color: #4F5759;
+    background-color: #EE7828;
     cursor: pointer;
     display: flex;
 }
 .cart__order-btn p{
     margin: auto;
-    color: #F2F2F2;
+    color: #202020;
     font-family: Nunito;
-    font-size: 25px;
+    font-size: 30px;
 }
 .cart__order-wrapper h2{
     margin-top: 20px;

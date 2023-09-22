@@ -2,14 +2,20 @@
     max-width: 1800px;
     margin: auto;
 }
+.goods__wrapper h1:first-of-type{
+    margin-top: 50px;
+}
 .goods__wrapper h1{
-    margin: 100px 0 0 100px;
+    margin: 0 50px 0 50px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid black;
 }
 .goods__single-product{
     width: 400px;
     height: 400px;
     margin: 40px;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 10px;
     text-align: center;
     background-color: #FFFFFF;
@@ -50,15 +56,15 @@
 .goods__add-btn{
     width: 200px;
     height: 50px;
-    background-color: #4F5759;
+    background-color: #202020;
     margin: 10px auto;
     color:#F2F2F2;
 }
 .goods__add-btn:hover{
-    background-color: #6e787a;
+    background-color: #EE7828;
     transition: all ease-in-out .5s;
 }
 .goods__add-btn:not(:hover){
-    background-color: #4F5759;
+    background-color: #202020;
     transition: all ease-in-out .5s;
 }
