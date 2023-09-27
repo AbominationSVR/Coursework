@@ -45,7 +45,7 @@
 }
 .cart__order-container{
     border: 2px solid #202020;
-    border-radius: 5px;
+    border-radius: 20px;
     background-color: #FFFFFF;
     text-align: center;
 }
@@ -54,7 +54,7 @@
     height: 100px;
     margin: 50px auto;
     border: 2px solid #202020;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: #EE7828;
     cursor: pointer;
     display: flex;

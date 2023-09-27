@@ -5,12 +5,20 @@
 }
 .discounts__container{
     width: 100%;
-    height: 100%;
+    height: 89%;
     margin-top: 32px;
     display: flex;
     justify-content: space-between;
     position: relative;
     overflow: hidden;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.discounts h1{
+    text-align: center;
+    color: #EE7828;
+    text-transform: uppercase;
 }
 .discounts__item{
     width: 19%;
@@ -18,10 +26,12 @@
 }
 .discounts__img{
     margin: auto;
+
 }
 .discounts__old-price{
     font-size: 20px;
     color: #202020;
+
 }
 .discounts h2:last-of-type{
     color: #EE7828;
