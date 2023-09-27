@@ -7,7 +7,7 @@ $.getJSON('db.json', function(data){
     getSum();
     function showCart(){
         if ($.isEmptyObject(cart)){
-            var out = '<div class="cart__empty"><h1>В корзине нет товаров</h1><img src="images/empty-cart.png" alt=""></div>';
+            var out = '<div class="cart__empty"><h1>В корзине пока пусто</h1><img src="images/empty-cart.png" alt=""></div>';
             var outOrder ='';
             $('#cart').html(out);
             $('#cart__order-wrapper').html(outOrder);
