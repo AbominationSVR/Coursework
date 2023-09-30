@@ -28,7 +28,8 @@ $.getJSON('db.json', function(data){
             out+='</div>';
         }
         var outOrder ='<div class="cart__order-container"><h2>Итого: </h2><h2 id="cart-sum" style="font-size: 40px"></h2>';
-        outOrder +='<div class="cart__order-btn"><p>Оформить заказ</p></div>';
+        outOrder += '<input class="cart__promo" type="text" placeholder="Введите промокод">'+
+            '<div class="cart__order-btn"><p>Оформить заказ</p></div>';
         $('#cart').html(out);
         $('#cart__order-wrapper').html(outOrder);
         $('.cart__btn-plus').on('click', plusGoods);

@@ -74,3 +74,23 @@
     transform: translateX(-50%);
     text-align: center;
 }
+.cart__promo{
+    width: 200px;
+    height: 50px;
+    margin: 50px auto;
+    border: 2px solid #202020;
+    border-radius: 10px;
+    background-color: #EE7828;
+    display: flex;
+}
+.cart__promo {
+    text-align: center;
+    margin: auto;
+    color: #202020;
+    font-family: Nunito;
+    font-size: 20px;
+}
+.cart__promo::placeholder{
+    text-align: center;
+    color:#202020;
+}
